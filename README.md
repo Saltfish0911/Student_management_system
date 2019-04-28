@@ -1,0 +1,3 @@
+# Student_management_system
+db.properties为配置文件
+mysql的用户名密码及URL
